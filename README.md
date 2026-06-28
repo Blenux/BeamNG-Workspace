@@ -1,6 +1,4 @@
 # BeamNG-Scripts
-Just some scripts I made for BeamNG.drive, hoping to update regularly.
+Just some stuff I made for BeamNG.drive, hoping to update regularly.
 
-feel free to use any of my scripts, I ask only to give credit in some shape or form.
-
-also let me know what you used them for.
+Feel free to use any of my changes, scripts, tooling, whatever I create, I ask only to give credit of original source, also give me a message what it was used for.
